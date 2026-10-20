@@ -14,7 +14,7 @@
 
 **Persona:** LMS'te (Moodle/Canvas) ders kaynaklarına sık başvuran bir üniversite öğrencisi. Harita, kendi öğrencilik deneyimlerime dayanmaktadır.
 
-<img width="1024" height="768" alt="Empati_haritası" src="https://github.com/user-attachments/assets/b174bd34-b770-485e-871e-25c2cbfac8aa" />
+<img width="1024" height="768" alt="Mavi Desenli Sevimli Tasarım Odaklı Düşünme Fikir Zihin Haritası Grafik (1)" src="https://github.com/user-attachments/assets/e88b8e4e-8ea1-4f4a-aee5-e75f8050b10d" />
 
 
 
